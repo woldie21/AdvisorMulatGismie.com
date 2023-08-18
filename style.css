@@ -52,7 +52,7 @@ div{
         line-height:50px;
     }
     .side-bar{
-        width:100%;
+        width:0%;
         height:100vh;
         postion:absolute;
         right: 0;
